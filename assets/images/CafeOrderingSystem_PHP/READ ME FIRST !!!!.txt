@@ -1,0 +1,26 @@
+SIMPLE CAFE ORDERING SYSTEM IN PHP
+
+**Login Details**
+
+Email Id : harryden@ourmail.com
+Password : harry
+
+**Admin Panel**
+
+Username : admin
+Password : admin
+
+**Developed By Shakhane Pokane**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "wings" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DATABASE FILE IS INSIDE "DATABASE" FOLDER
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+THANK YOU FOR DOWNLOADING :) 
